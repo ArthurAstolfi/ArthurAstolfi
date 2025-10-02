@@ -9,8 +9,8 @@ Olá! 👋 Sou **Arthur**, estudante de **Engenharia de Software na PUC Minas** 
 Atualmente estou focado em desenvolvimento **Full-Stack**, criando aplicações modernas, seguras e escaláveis.  
 
 - 🎯 Buscando minha primeira oportunidade como **Desenvolvedor Full-Stack**
-- 🌱 Sempre aprendendo mais sobre **Cloud, DevOps e Arquitetura de Microsserviços**
-- ⚡ Fã do Tony Stark, sempre pensando em soluções criativas e inteligentes 😎  
+- 🌱 Sempre aprendendo mais sobre **Cloud, Arquitetura de Microsserviços e Desenvolvimentos Web**
+- ⚡ Sou ambicioso, criativo e focado, sempre procurando as melhores soluções 😎  
 
 ---
 
